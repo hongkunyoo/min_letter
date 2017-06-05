@@ -16,7 +16,7 @@ $(function($){
 
 
 function imageFadeInOut(interId) {
-	console.log(img_count);
+	// console.log(img_count);
 	if (img_count > 71) {
 		clearInterval(interId);
 
